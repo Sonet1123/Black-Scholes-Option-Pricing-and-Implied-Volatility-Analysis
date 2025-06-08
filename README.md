@@ -1,4 +1,4 @@
-# Black-Scholes Option Pricing and Implied Volatility Analysis
+# Black-Scholes Option Pricing, Greeks Sensitivity and Implied Volatility Analysis
 
 This project explores Black-Scholes option pricing and the behavior of option Greeks with respect to changes in spot price and time to expiration. It also investigates implied volatility estimation using both constant volatility and volatility smile models.
 
